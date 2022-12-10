@@ -35,3 +35,11 @@ further
 
 git log ==> to get log of all the commit done till now
 git checkout <commmitHash>
+
+
+NORMAL 
+COPY CTRL c
+PASTE CTRL void
+TERMINAL
+COPY CTRL SHIFT c
+PASTER CTRL SHIFT V
