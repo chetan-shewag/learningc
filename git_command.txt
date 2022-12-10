@@ -60,3 +60,11 @@ git push origin master
 git pull <branchName>
 
 
+Learn git
+15 December
+[1]- https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
+[2]- https://learngitbranching.js.org/
+
+extension
+- https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom
+- video speed contrller
