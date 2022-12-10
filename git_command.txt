@@ -1,0 +1,9 @@
+git status -- current status of an folder
+git init -- for git initialization in a folder
+
+-- not tracked to tracke --- 
+git add <filename>
+git add git_command.txt hello.c
+git add .  ==> dot means all
+
+--> untrack to ==>track ==> staging
