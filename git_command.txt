@@ -1,9 +1,32 @@
+--- one time effort ---
+git config --global user.email "chetanshewag213@gmail.com" 
+git config --global user.name "chetan_shewag"         
+git config --list
+------------------------------
+
+
 git status -- current status of an folder
 git init -- for git initialization in a folder
 
 -- not tracked to tracke --- 
 git add <filename>
-git add git_command.txt hello.c
-git add .  ==> dot means all
+git add git_command.txt hello.c -- track these files and put them to staging
+git add .  ==> dot means all  -- track all files and put them to staging
 
---> untrack to ==>track ==> staging
+git commit
+git commit -m "type your message here"
+
+ctrl + tilde
+
+1  untrack to 
+2 track/modified 
+3  staging(an stage where you can review the files to be committed) 
+4  commit
+
+
+first time 
+-- 1 > to > 3 - direct
+
+further
+ -- 2 > 3 > 4
+
