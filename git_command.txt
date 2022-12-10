@@ -8,6 +8,8 @@ git config --list
 git status -- current status of an folder
 git init -- for git initialization in a folder
 
+git branch <== gives the command of the current branch
+
 -- not tracked to tracke --- 
 git add <filename>
 git add git_command.txt hello.c -- track these files and put them to staging
@@ -43,3 +45,16 @@ PASTE CTRL void
 TERMINAL
 COPY CTRL SHIFT c
 PASTER CTRL SHIFT V
+
+
+=============================================================================
+
+git remote ==> lists all remote available
+
+git remote add <remoteName> <remoteURL>  <=== command to add remote
+ git remote add origin https://github.com/chetan-shewag/learningc.git
+
+git remote get-url <remoteName>  <=== gives the url of the remote
+
+git push -u origin master
+git pull <branchName>
