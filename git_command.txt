@@ -56,5 +56,7 @@ git remote add <remoteName> <remoteURL>  <=== command to add remote
 
 git remote get-url <remoteName>  <=== gives the url of the remote
 
-git push -u origin master
+git push origin master
 git pull <branchName>
+
+
