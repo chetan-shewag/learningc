@@ -17,7 +17,6 @@ git add .  ==> dot means all  -- track all files and put them to staging
 
 git commit
 git commit -m "type your message here"
-
  git commit -am "message here" ==> stage & commit at once 
 
 ctrl + tilde
