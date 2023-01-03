@@ -1,8 +1,12 @@
+                           //use of printf
+
+
+                           
 #include<stdio.h>
 #include<conio.h>
 void main()
 {
-clrscr();
-printf("what you want to print");
-getch();
+                         clrscr();
+                         printf("what you want to print");
+                         getch();
 }
