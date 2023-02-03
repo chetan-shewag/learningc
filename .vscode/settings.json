@@ -11,6 +11,9 @@
         "SWAP.C": "cpp",
         "SWAPE02.C": "cpp",
         "SWAP01.C": "cpp",
-        "FUNCTI.C": "cpp"
+        "FUNCTI.C": "cpp",
+        "FACTORIA.C": "cpp",
+        "TABLE_OF.C": "cpp",
+        "stdio.h": "c"
     }
 }

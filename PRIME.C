@@ -5,7 +5,6 @@
 void main()
 {
                 int n,i,chet=0;
-                clrscr();
                 printf("\nenter an number:");
                 scanf("%d",&n);
                 for(i=2;i<n;i++)
