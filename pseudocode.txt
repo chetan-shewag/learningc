@@ -1,0 +1,14 @@
+---------------------PSEUDOCODE------------------
+
+-->Pseudocode expressed in a formally-styled natural language rather then in a programing language.
+-->Pseudocode is something used as a detailed step in the process of developing a program.
+
+
+---------<>------------<>----------<>------------<>-------------<>--------------
+ 
+ --PRINT THE AVG. OF TWO NUMBER A&B;
+
+ 1) READ A 
+ 2) READ B 
+ 3) AVG. (a+b/2)
+ 4) PRINT AVG.

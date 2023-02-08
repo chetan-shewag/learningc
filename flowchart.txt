@@ -1,0 +1,14 @@
+----------------------FLOWCHART-------------------------
+
+-->Flowchart is a graphicaly representation of a algorithm
+-->Programer often use it as a program planing tool to solve a problem
+-->The process of drawing  a flowchart for an algorithm is known as "FLOWCHARTING"
+i)   start 
+ii)input number 1
+   input number 2
+
+iii)ans. = number1-number2
+
+iv)print answer
+
+v)   end 

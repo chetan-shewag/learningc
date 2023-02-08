@@ -58,7 +58,6 @@ git remote get-url <remoteName>  <=== gives the url of the remote
 git push origin master
 git pull <branchName>
 
-
 Learn git
 15 December
 [1]- https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi

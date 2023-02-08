@@ -1,0 +1,14 @@
+-----------how to deal with the problem--------------
+1. -->problem<---
+2. -->think a solution in your head<--
+
+3. -->make a rough solutoin<---
+ like example i) flowchart
+              ii) pseudocode
+
+4.--> Make a code in any high-level language like c++, java, etc...
+5. -->then your high level language convert into a machine understand language[binary language]
+6. -----> then you get a output of your program/ \problem   
+NOTE : COMPUTER ONLY KNOW A BINARY LANGUAGE 
+            [0101000111011]------>BINARY LANGUAGE             
+

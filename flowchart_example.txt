@@ -1,0 +1,32 @@
+-------------Some questions regarding flowchhart and pseudocode---------
+
+Question 1) Add two number by taking input
+Ans.) flowchart--> i)start
+                  ii)read A 
+                 iii) raed B 
+                  iv)sum A +B 
+                   v)print sum 
+                  vi) end
+
+      pseudocode--> i)read a 
+                   ii)raed b 
+                  iii)sum (a+b)
+                   iv) print sum.
+------------<>-------------<>-------------<>--------------<>-----------
+
+Question 2)Find circumfrence of a circle
+Ans.) Flowchart--> i)start
+                  ii) raed R
+                 iii) read pie
+                  iv) circumfrence= 2*pie*R
+                   v) print circumfrence
+                  vi) end
+
+       Pseudocode--> i) read R
+                    ii) raed pie
+                   iii) circumfrence= 2*pie*R
+                    iv) print circumfrence.
+
+
+
+                                 
