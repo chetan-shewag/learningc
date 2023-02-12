@@ -7,7 +7,7 @@
                     printf("\nenter markes");
                       scanf("%d",&m);
                               if(m>100)
-                               printf("\nenvalid");
+                               printf("\nenvalid"
                               else if(m>91)
                                printf("\nA+");
                               else if (m>81)
