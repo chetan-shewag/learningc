@@ -4,7 +4,7 @@ int main(){
   int ch=65;    
     int i,j,k,m;    
     
-    for(i=1;i<=5;i++)    
+     for(i=1;i<=5;i++) 
     {    
         for(j=5;j>=i;j--)    
             printf(" ");    
@@ -18,3 +18,5 @@ int main(){
     }    
 return 0;  
 }  
+
+// ctrl k f
