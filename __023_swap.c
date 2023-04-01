@@ -28,3 +28,7 @@ code-- > compiler-- > binary form-- > if any rule is broken then it gives error-
                                                                                     main(int, int)
 {
 }
+
+
+
+//// chetan jaaat
