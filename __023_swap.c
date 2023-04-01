@@ -1,7 +1,7 @@
 // swapped program
 // here we swapped the valuse
 
-#include <stdio.h> // sab kuch jo stdio.h file m h => standard input ouptput  - function/feature input output
+#include <math.h> // sab kuch jo stdio.h file m h => standard input ouptput  - function/feature input output
 #                  //include<conio.h> // sab kcuh conio.h  import/include swap.c -- console input /output
 void main()
 {
