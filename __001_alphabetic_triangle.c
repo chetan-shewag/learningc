@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main ()
 {
     int ch = 65;
     int i, j, k, m;
@@ -17,7 +17,7 @@ int main()
         printf("\n");
         ch = 65;
     }
-    return 0;
+  
 }
 
 // ctrl k f
